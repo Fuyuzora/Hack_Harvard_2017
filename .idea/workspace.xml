@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9cbea8f-7bc2-48ff-be35-237d446ad8a4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/speech_recognition/speech_recognition.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/speech_recognition/transcribe_streaming.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/speech_recognition/transcribe_streaming_indefinite.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/speech_recognition/transcribe_streaming_mic.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/speech_recognition/Untitled.ipynb" afterPath="$PROJECT_DIR$/speech_recognition/Untitled.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,7 +56,7 @@
       <file leaf-file-name="transcribe_streaming_indefinite.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/speech_recognition/transcribe_streaming_indefinite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
+            <state relative-caret-position="-3399">
               <caret line="73" column="41" lean-forward="true" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
               <folding>
                 <element signature="e#888#919#0" expanded="true" />
@@ -328,7 +325,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/speech_recognition/transcribe_streaming_indefinite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
+        <state relative-caret-position="-3399">
           <caret line="73" column="41" lean-forward="true" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
           <folding>
             <element signature="e#888#919#0" expanded="true" />

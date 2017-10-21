@@ -79,6 +79,7 @@ dependencies:
   - jupyter-client==5.1.0
   - jupyter-console==5.2.0
   - jupyter-core==4.3.0
+  - onepy==0.2.1
   - opencv-python==3.3.0.10
   - ply==3.8
   - prompt-toolkit==1.0.15
