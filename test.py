@@ -9,7 +9,7 @@ def photo_analyse (img_list):
     filtered_img_list = []
     for img in img_list:
         detect = face(img)
-        if detect is not []:
+        if detect is not '[]':
             img_path_list.append(str(img))
             filtered_img_list.append(img)
     analyzed_imgs = []
