@@ -70,4 +70,4 @@ def handwriting_to_text(img):
         print(e)
 
 ####################################
-handwriting_to_text("http://joshldavis.com/img/handwriting/dijkstras.png")
+# handwriting_to_text("http://joshldavis.com/img/handwriting/dijkstras.png")
