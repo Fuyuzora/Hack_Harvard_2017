@@ -26,7 +26,7 @@ def photo_analyse (img_list):
     print(analyzed_imgs)
     return analyzed_imgs
 
-test_img_list = ["http://joshldavis.com/img/handwriting/dijkstras.png", \
-                 "https://media.npr.org/assets/img/2016/04/17/handwritten-note_wide-941ca37f3638dca912c8b9efda05ee9fefbf3147.jpg?s=1400",\
-                 "http://joshldavis.com/img/handwriting/dijkstras.png"]
-photo_analyse(test_img_list)
+# test_img_list = ["http://joshldavis.com/img/handwriting/dijkstras.png", \
+#                  "https://media.npr.org/assets/img/2016/04/17/handwritten-note_wide-941ca37f3638dca912c8b9efda05ee9fefbf3147.jpg?s=1400",\
+#                  "http://joshldavis.com/img/handwriting/dijkstras.png"]
+# photo_analyse(test_img_list)
